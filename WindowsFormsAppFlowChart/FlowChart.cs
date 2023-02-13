@@ -94,7 +94,7 @@ namespace WindowsFormsAppFlowChart
             {
                 new Process(new List<string> { SCPY, "*ESE", SYNTAX, "*ESE enable_number" }),
                 new Process(new List<string> { "A", "c", "cc", "ccc" }),
-                new Process(new List<string> { "D", "d", "dd", "ddd" }),
+                new Process(new List<string> { "D", "d", "dd", "dddd" }),
             }),
         };
     }
